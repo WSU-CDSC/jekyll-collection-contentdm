@@ -4,8 +4,8 @@
 # JEKYLL_ENV=production jekyll build
 
 # Site/Collection settings
-title: Latah County Community Heritage Collection
-tagline: Materials from the NEH Funded Common Heritage Community Digitization Project in Latah County
+title: William Delbert Barkhuff Photo Collection
+tagline: 
 subjects: Idaho; Northwest; Forests; Wilderness; Fire; Latah; Moscow;Potlatch #separate semi-colon(';')
 description: "The Latah County Common Heritage Collection was driven by funding from a National Endowment for the Humanities (NEH) Common Heritage Grant awarded to the University of Idaho Library in 2016. The materials in this collection were collected via community digitization days held in Moscow and Potlatch in 2016 and 2017." 
 mediatypes: documents; image #options[documents,images,video,sound,data] separate semi-colon(';')
