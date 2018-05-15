@@ -54,7 +54,7 @@ email: alex.merrill@wsu.edu
 
 # page gen settings https://github.com/avillafiorita/jekyll-datapage_gen
 page_gen:
-  - data: 'barkhuff' #should be the same as your csvtitle above
+  - data: 'metadata-wsu' #should be the same as your csvtitle above
     template: 'items' 
     name: 'object-id' #name of the unique identifier in your metadata sheet
     dir: 'items' #which directory you'd like your pages generated to
